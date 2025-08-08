@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who Got The Bigger Slice?</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <h1>🍕 Who Got The Bigger Slice? 🍰</h1>
+        <div class="subtitle">No more fighting over food portions!</div>
+    </header>
+
+    <div class="container">
+        <div class="instructions">
+            <h2>How to Use:</h2>
+            <ol>
+                <li>Place the food pieces you want to compare on a contrasting surface (dark food on light surface or vice versa)</li>
+                <li>Make sure both pieces are clearly visible in the camera</li>
+                <li>Click "Capture & Compare" to analyze the pieces</li>
+                <li>The bigger piece will be highlighted!</li>
+            </ol>
+        </div>
+
+        <div class="main-content">
+            <div class="video-container">
+                <video id="videoElement" autoplay playsinline></video>
+                <canvas id="canvasElement"></canvas>
+            </div>
+
+            <div class="controls">
+                <button class="button capture-btn" id="captureButton">Capture & Compare</button>
+                <button class="button reset-btn" id="resetButton">Reset</button>
+            </div>
+
+            <div class="result-container" id="resultContainer" style="display: none;">
+                <div class="result-text" id="resultText"></div>
+                <div class="piece-info" id="pieceInfo"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
