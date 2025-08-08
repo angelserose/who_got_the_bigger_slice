@@ -1,7 +1,6 @@
 # YOLO model weights
-yolov8*.pt
-yolov8*.yaml
 *.pt
+*.yaml
 *.onnx
 *.engine
 *.mlmodel
@@ -9,28 +8,15 @@ yolov8*.yaml
 *.tflite
 *.h5
 
-# Images and videos
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.tif
-*.tiff
-*.heic
-*.JPG
-*.JPEG
-*.PNG
-*.BMP
-*.TIF
-*.TIFF
-*.HEIC
-*.mp4
-*.mov
-*.MOV
-*.avi
-*.data
-*.json
-*.cfg
+# Keep sample images
+!samples/*.jpg
+
+# Development artifacts
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
 
 # Python
 __pycache__/
