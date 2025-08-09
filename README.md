@@ -46,11 +46,7 @@ Terminal / Command Prompt – To run the magic.
 
 
 
-Installation
 
-# Who Got The Bigger Slice
-
-A Python application that uses YOLOv8 and OpenCV to detect and compare food pieces.
 
 ## Setup
 
