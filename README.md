@@ -100,7 +100,7 @@ For Software:
 Screenshots (Add at least 3)
 WhatsApp Image 2025-08-09 at 06.20.56_0fafb2f3.jpg
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+WhatsApp Image 2025-08-09 at 06.20.56_b5fab14b.jpg
 
 ![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
 
