@@ -108,13 +108,12 @@ WhatsApp Image 2025-08-09 at 06.20.57_af001f64.jpg
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+WhatsApp Video 2025-08-09 at 06.21.05_d1f43232.mp4
 
-Additional Demos
-[Add any extra demo materials/links]
+
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+Jual Aju : 
+Angel Rose K T : 
+
 Made with ❤️ at TinkerHub Useless Projects
