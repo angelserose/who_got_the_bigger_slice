@@ -98,7 +98,7 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+WhatsApp Image 2025-08-09 at 06.20.56_0fafb2f3.jpg
 
 ![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
 
