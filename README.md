@@ -1,3 +1,5 @@
+# Who Got The Bigger Slice
+
 Who got the bigger slice!
 Basic Details
 Team Name: Thoplikanavila makale
@@ -113,7 +115,7 @@ WhatsApp Video 2025-08-09 at 06.21.05_d1f43232.mp4
 
 
 Team Contributions
-Jual Aju : 
-Angel Rose K T : 
+Jual Aju : strategy,presentation,designing
+Angel Rose K T : Ideator,project development,designing
 
 Made with ❤️ at TinkerHub Useless Projects
